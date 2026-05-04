@@ -1,0 +1,1 @@
+# analise_dataset_solar_panel_images_dataset
